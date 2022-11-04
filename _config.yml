@@ -6,8 +6,12 @@ only_build_toc_files: true
 sphinx:
   config:
     autodoc_mock_imports: ["wx"]
+    bibtex_reference_style: author_year
+    bibtex_bibfiles: 
+    - content/references.bib
   extra_extensions:
     - numpydoc
+    - sphinxcontrib.bibtex
 
 execute:
   execute_notebooks: "off"

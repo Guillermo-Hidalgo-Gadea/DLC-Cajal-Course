@@ -50,6 +50,8 @@ From the main folder, run the following command: `jupyter-book build .`
 
 ### Day 1 (TBD: turn into links, see [here](http://www.mackenziemathislab.org/deeplabcut))
 
+Example in-line citation {cite}`anderson_toward_2014`. Bibliography at the end of the page.
+
 Anderson and Perona [Toward a science of computational ethology](https://www.sciencedirect.com/science/article/pii/S0896627314007934), Neuron, 2014
 
 Mathis and Mathis Deep learning tools for the measurement of animal behavior in neuroscience Current Opinion in Neurobiology 2020
@@ -76,3 +78,9 @@ Wiltschko et al. [Mapping Sub-Second Structure in Mouse Behavior](https://www.nc
 Overview talk, if you want to prepare as the lectures for Tue - Wed are not available yet:
 
 [Recent talk by AM at the CV4ecology Summer School at CalTech](https://www.youtube.com/watch?v=jfIb2qfAkQU)
+
+
+### Bibliography
+```{bibliography}
+:style: unsrt 
+```
