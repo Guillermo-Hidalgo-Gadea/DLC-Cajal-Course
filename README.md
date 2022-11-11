@@ -36,6 +36,7 @@ Thanks to the whole teaching team for putting this together 🎉🎉🎉!
 | Teaching Assistant 🖥️  | Virginia Palieri    | Munich (DE)            | [GitHub](https://github.com/vpalieri)       |                 |
 | Teaching Assistant 🖥️  | Aleksandar Gavric   | 🛰️ online               |[GitHub](https://github.com/alex-gavric)      | [@AcaGavric](https://twitter.com/AcaGavric)     |
 | Teaching Assistant 🔬  | Aleksandra Gavriova | Okinawa (JP)           | [GitHub](https://github.com/a-gavrilova)       | [@shura_gav](https://twitter.com/shura_gav)     |
+| Teaching Assistant 🐭  | Alice Koltchev      | London (UK)            | [GitHub](https://github.com/koltchegg)| |
 
 ## Acknowledgments
 
